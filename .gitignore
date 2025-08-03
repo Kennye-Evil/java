@@ -1,0 +1,18 @@
+# Ignorar binarios y ejecutables
+*.exe
+*.dll
+*.class
+
+# Carpetas de compilación de NetBeans
+/build/
+/dist/
+/nbbuild/
+/nbproject/private/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración de sistema
+.DS_Store
+Thumbs.db
